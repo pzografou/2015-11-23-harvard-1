@@ -6,3 +6,12 @@ http://pad.software-carpentry.org/2015-11-23-harvard
 
 tst tst2
 ouch
+
+# Header 1
+## header 2
+### header 3
+#### header 4
+
+. bullit 1
+. bullit 2
+
