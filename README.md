@@ -12,6 +12,6 @@ ouch
 ### header 3
 #### header 4
 
-. bullit 1
-. bullit 2
+. bullet 1
+. bullet 2
 
