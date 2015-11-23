@@ -17,9 +17,6 @@ ouch
 * bullet 3
 *   bullet 4
 
-- a
-- b
-
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list. 
